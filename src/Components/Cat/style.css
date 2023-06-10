@@ -1,0 +1,12 @@
+.img{
+    width: 300px;
+    height: 300px;
+}
+.select{
+    display: block;
+    padding: 5px 20px;
+    background: dodgerblue;
+    color: white;
+    text-align: center;
+    margin-left: 40%;
+}
